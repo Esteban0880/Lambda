@@ -83,7 +83,7 @@ export function TaskFormPage() {
               toast.success("Tarea eliminada", {
                 position: "right",
                 style: {
-                  background: "black",
+                  background: "white",
                   color: "#fff",
                 }
               });
